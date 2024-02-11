@@ -6,8 +6,13 @@ namespace KcentrParser.Services;
 
 public class AppleService : IAppleService
 {
-    private const string Url = "https://kcentr.ru/search/smartfony/?q=айфон";
-    
+    private readonly string Url;
+
+    public AppleService(IConfiguration configuration) 
+    {
+        Url = configuration["UrlKcentr"];
+    }   
+
     public List<Apple> GetAllApples()
     {
         List<Apple> apples = new List<Apple>();

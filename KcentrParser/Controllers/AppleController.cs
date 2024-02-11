@@ -1,4 +1,5 @@
 ﻿using KcentrParser.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 
@@ -17,6 +18,7 @@ public class AppleController : ControllerBase
 
     [HttpGet]
     [Route("")]
+    [Authorize]
     public ActionResult GetAllApples()
     {
         var apples = _appleService.GetAllApples();
