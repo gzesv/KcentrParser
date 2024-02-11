@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "knpfPP/dN9SFLpvZD4dHwFlFzZWqpZg8zfAqLgmp5TuHKFn6bNxdOZ3tOSeblmqTk4wK6VSg1fryDzG7Xgt4Zg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\кц\\source\\repos\\KcentrParser\\KcentrParser\\KcentrParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\кц\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\кц\\.nuget\\packages\\selenium.webdriver\\4.17.0\\selenium.webdriver.4.17.0.nupkg.sha512",
+    "C:\\Users\\кц\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\кц\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\кц\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\кц\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
